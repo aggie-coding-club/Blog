@@ -22,7 +22,7 @@ title: ACC Blog
 email: aggiecodingclub@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Find Posts, Articles, and Resources for all things Coding and Aggie Coding Club Workshops!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "Blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: aggiecodingclub
 github_username: aggie-coding-club  
