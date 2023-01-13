@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The *Fancy* Google Drive for **Aggie Coding Club Workshops**.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Join us Monday 7-9pm Peterson 118. Join our **[Discord](https://discord.gg/NZzNaaDF)** to keep up to date!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here you can find all the resources from our Workshops, including
+the slides, and github repository.
 
+#### Get Involved:
+- [discord](https://discord.gg/NZzNaaDF)
+- [instagram](https://instagram.com/aggiecodingclub)
+- [github](https://github.com/aggie-coding-club)
+- [website](https://aggiecodingclub.com/)
 
-[jekyll-organization]: https://github.com/jekyll
